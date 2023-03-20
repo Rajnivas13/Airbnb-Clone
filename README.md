@@ -1,6 +1,7 @@
 # Airbnb Clone Project
 
-![image](https://user-images.githubusercontent.com/68956003/221849073-62487e40-34ca-4499-b4d8-a34213f4105d.png)
+![Airbnb-clone-screenshot](https://user-images.githubusercontent.com/68956003/226253849-0d4a8f08-fe65-4b0c-95a9-9794e94b5272.png)
+
 
 ## Overview
 I created this project as a learning exercise to develop my skills in web development. It is a clone of the Airbnb website and was built using ReactJs. The goal of this project was to gain experience in Reacjs, JSX, CSS, Javascript, and to practice implementing features commonly found in modern web applications. This project is hosted on GitHub and was completed as part of Scrimba Learning.
